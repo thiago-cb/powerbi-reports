@@ -10,7 +10,7 @@ To visualise and interact with the reports on your web browser, please click on 
 - **Objective**: To produce a dynamic report showing annual GDP by sector and GDP per capita by region.
 - **Tech Stack**: Power BI, Power Query, DAX
 - **Solution**: Performed **ETL process** and created **Interactive Dashboards** and **Visualisations**.
-- **Key Achievement**:  Services represented the highest GDP by sector annually (**46.36% on average**). South region showed the best GDP per capita in approximately **89%** of the time span.
+- **Key Achievement**:  Services represented the highest GDP by sector annually (**46.36% on average**), while the South region showed the best GDP per capita in approximately **89%** of the time span.
 <br />
 
 ## [Regional Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiOTQzOTgwNDMtMjFjOC00OTk4LWJiYzktMzU3ZDEwMjI4ZjRjIiwidCI6IjM1Y2M4ODc5LTEzNGUtNDFlMi05NTc2LTNkMDkzNWNkZGVkZCJ9)
