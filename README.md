@@ -1,4 +1,4 @@
-# Power BI Dashboards
+# Power BI Projects
 To visualise and interact with the reports on your web browser, please click on the project title or image.
 ***
 
