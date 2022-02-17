@@ -9,7 +9,7 @@ To visualise and interact with the reports on your web browser, please click on 
 
 - **Objective**: To produce a dynamic report showing annual GDP by sector and GDP per capita by region.
 - **Tech Stack**: Power BI, Power Query, DAX
-- **Solution**: Performed **ETL process** and created **Interactive Dashboards** and **Visualisations**.
+- **Solution**: Performed **ETL process** and created **Interactive Visualisations**.
 - **Key Achievement**:  Services represented the highest GDP by sector annually (**46.36% on average**), while the South region showed the best GDP per capita in approximately **89%** of the time span.
 <br />
 
@@ -20,7 +20,7 @@ To visualise and interact with the reports on your web browser, please click on 
 
 - **Objective**: To produce a dynamic report showing revenue segmentation and sales team performance.
 - **Tech Stack**: Power BI, Power Query, DAX
-- **Solution**: Performed **ETL process** and created an **Interactive Dashboard** and **Visualisations**.
+- **Solution**: Performed **ETL process** and created an **Interactive Visualisations**.
 - **Key Achievement**:  Revenue trended up (**7.53% increase**) while Average Sales trended down (**9.30% decrease**) between 2018 and 2021.
 <br />
 
@@ -31,7 +31,7 @@ To visualise and interact with the reports on your web browser, please click on 
 
 - **Objective**: To create a report for a Department Store showing the revenue for years 2019 to 2021.
 - **Tech Stack**: Power BI, Power Query, DAX
-- **Solution**: Built an **Interactive Dashboard** and **Visualisations** using cards and different charts.
+- **Solution**: Built **Interactive Visualisations** using cards and different charts.
 - **Key Achievement**: The first semester of 2021 showed **a fall of 17%** in revenue compared to the same period in the previous year.
 
 ***
