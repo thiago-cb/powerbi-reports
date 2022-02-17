@@ -20,7 +20,7 @@ To visualise and interact with the reports on your web browser, please click on 
 
 - **Objective**: To produce a dynamic report showing revenue segmentation and sales team performance.
 - **Tech Stack**: Power BI, Power Query, DAX
-- **Solution**: Performed **ETL process** and created an **Interactive Visualisations**.
+- **Solution**: Performed **ETL process** and created **Interactive Visualisations**.
 - **Key Achievement**:  Revenue trended up (**7.53% increase**) while Average Sales trended down (**9.30% decrease**) between 2018 and 2021.
 <br />
 
